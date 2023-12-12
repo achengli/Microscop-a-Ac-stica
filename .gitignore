@@ -1,4 +1,4 @@
-./sources.txt
-./activate.fish
-./Pipfile.lock
+sources.txt
+activate.fish
+Pipfile.lock
 .vimrc
